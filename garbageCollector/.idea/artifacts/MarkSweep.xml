@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MarkSweep">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarkSweep</output-path>
+    <root id="archive" name="garbage collector project.jar">
+      <element id="module-output" name="garbage collector project" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opencsv-5.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
