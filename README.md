@@ -2,9 +2,9 @@
 Implement four of the known algorithms used in Garbage Collectors.
 ## Description
 In this Project, We will implement four of the known algorithms used in Garbage Collectors:
- 1- Mark & Sweep GC.
- 2- Mark & Compact GC.
- 3- Copy GC.
+  * Mark & Sweep GC.
+  * Mark & Compact GC.
+  * Copy GC.
  
 ## How to run:
 Program is executed by jar file which takes four arguments:
